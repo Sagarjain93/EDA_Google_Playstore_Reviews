@@ -243,4 +243,5 @@ _This project demonstrates how exploratory data analysis can uncover meaningful 
 **Author**
 
 **Sagar Jain**
+
 **Aspiring Data Analyst | Python | SQL | EDA | Data Visualization**
